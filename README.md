@@ -14,7 +14,6 @@ This repository contains the project for my machine learning course, focusing on
 1. Clone the Repository:
 
 ```bash
-Copy code
 git clone https://github.com/your-username/mall-customer-clustering.git
 cd mall-customer-clustering
 ```
@@ -23,7 +22,6 @@ cd mall-customer-clustering
 ```
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 
