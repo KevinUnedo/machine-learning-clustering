@@ -49,5 +49,3 @@ Future improvements or extensions to this project could include exploring altern
 - [@MarudutTmp](https://github.com/MarudutTmp)
 - [@wenysiholmaritositinjak](https://github.com/wenysiholmaritositinjak)
 - [@bintangmargarethasitumorang](https://github.com/bintangmargarethasitumorang)
-
-- 
