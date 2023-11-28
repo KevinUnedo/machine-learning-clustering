@@ -6,7 +6,7 @@ This repository contains the project for my machine learning course, focusing on
 ## Project Structure
 - `data/`: This directory contains the dataset used for analysis. The primary file is mall_customer_data.csv, which includes the raw data.
 
-- `notebooks/`: Jupyter notebooks used for data exploration, preprocessing, and clustering analysis are stored here. The main notebook is clustering_analysis.ipynb.
+- `notebooks/`: Jupyter notebooks used for data exploration, preprocessing, and clustering analysis are stored here. The main notebook is Group11_Project.ipynb.
 
 - `src/`: This directory contains any source code or scripts used in the project. The primary script is mean-shift-clustering.py, implementing the MeanShift clustering algorithm.
 
